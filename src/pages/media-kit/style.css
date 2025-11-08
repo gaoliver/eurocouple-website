@@ -1,6 +1,24 @@
+.lang-toggle {
+  margin-left: auto;
+  margin-bottom: 1.5rem;
+  background: var(--card);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.3s;
+}
+.lang-toggle:hover {
+  background: var(--green);
+  cursor: pointer;
+  color: #fff;
+}
+
 .hero {
   position: relative;
-  padding: 3.5rem 0 2rem;
+  padding: 2rem 0 2rem;
 }
 .hero .card {
   display: grid;

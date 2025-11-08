@@ -7,7 +7,7 @@ interface MediaKitProps {
   title: string;
 }
 
-const MediaKit = ({title}: MediaKitProps) => {
+const MediaKit = ({ title }: MediaKitProps) => {
   const [lang, setLang] = useState<"pt" | "en">("pt");
 
   const getLanguageFromURL = () => {
@@ -28,6 +28,15 @@ const MediaKit = ({title}: MediaKitProps) => {
     <>
       <header className="hero">
         <div className="container">
+          <div style={{ display: "flex" }}>
+            <button
+              className="lang-toggle"
+              onClick={() => setLang(lang === "pt" ? "en" : "pt")}
+            >
+              {lang === "pt" ? "Read in ENGLISH 🇬🇧" : "Ler em PORTUGUÊS 🇧🇷"}
+            </button>
+          </div>
+
           <div className="card">
             <div>
               <span className="chip">{data.hero.chip[lang]}</span>
@@ -125,7 +134,10 @@ const MediaKit = ({title}: MediaKitProps) => {
               {data.channels.sectionTitle[lang]}
             </h2>
             <div className="grid cards">
-              <article className="card" style={{display: "flex", flexDirection: "column"}}>
+              <article
+                className="card"
+                style={{ display: "flex", flexDirection: "column" }}
+              >
                 <h3>{data.channels.instagram.title[lang]}</h3>
                 <p>{data.channels.instagram.description[lang]}</p>
                 <p style={{ marginTop: "auto" }}>
@@ -140,7 +152,10 @@ const MediaKit = ({title}: MediaKitProps) => {
                 </p>
               </article>
 
-              <article className="card" style={{display: "flex", flexDirection: "column"}}>
+              <article
+                className="card"
+                style={{ display: "flex", flexDirection: "column" }}
+              >
                 <h3>{data.channels.youtube.title[lang]}</h3>
                 <p>{data.channels.youtube.description[lang]}</p>
                 <p style={{ marginTop: "auto" }}>
