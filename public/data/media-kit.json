@@ -1,0 +1,322 @@
+{
+  "hero": {
+    "chip": {
+      "en": "Media Kit • Bilingual",
+      "pt": "Media Kit • Bilíngue"
+    },
+    "title": {
+      "en": "Euro Couple",
+      "pt": "Euro Couple"
+    },
+    "description": {
+      "en": "Brazilian couple living in the Netherlands, sharing culture, lifestyle, and travel — full of originality, honesty, simplicity, and humor.",
+      "pt": "Casal brasileiro vivendo na Holanda e compartilhando cultura, lifestyle e viagens. Cheios de originalidade, verdade, simplicidade e bom humor."
+    },
+    "buttons": {
+      "contact": {
+        "en": "Contact us",
+        "pt": "Fale com a gente"
+      },
+      "instagram": {
+        "en": "@canaleurocouple",
+        "pt": "@canaleurocouple"
+      }
+    },
+    "tags": {
+      "pt": "🇧🇷 Português",
+      "en": "🇬🇧 English",
+      "season": "🎄 Kerst Couple (Season)",
+      "podcast": "🎙️ Cafezinho Gringo"
+    },
+    "locationBadge": {
+      "en": "Stein • Limburg • NL",
+      "pt": "Stein • Limburg • NL"
+    }
+  },
+
+  "about": {
+    "sectionTitle": {
+      "en": "About Us",
+      "pt": "Quem Somos"
+    },
+    "text": {
+      "en": "<p>We are Gabriel and Beatriz. A Brazilian couple living in the Netherlands, sharing real experiences about life in Europe — without filters or unnecessary glamour. Euro Couple portrays everyday life, travels, challenges and joys with lightness, honesty, and humor.</p><p>Our audience connects with us and finds authenticity in what we share, treating us like everyday friends. We are grateful to have such enthusiastic and engaged followers.</p>",
+      "pt": "<p>Somos Gabriel e Beatriz. Um casal brasileiro que vive na Holanda e compartilha suas experiências reais sobre viver na Europa — sem filtros e sem glamourizações. O Euro Couple mostra o cotidiano, as viagens, os desafios e as alegrias da vida europeia de forma leve, verdadeira e divertida.</p><p>Nosso público se conecta com a gente e encontram verdade no que falamos, nos tratando como amigos do dia-a-dia. Somos felizes por termos seguidores tão empolgados e participativos.</p>"
+    },
+    "kpis": {
+      "instagramFollowers": {
+        "label": {
+          "en": "Instagram followers",
+          "pt": "Seguidores no Instagram"
+        },
+        "value": "11K+"
+      },
+      "reelsViews": {
+        "label": {
+          "en": "Reels peak views",
+          "pt": "Visualizações máximas em Reels"
+        },
+        "value": "200K+"
+      },
+      "youtubeSubscribers": {
+        "label": {
+          "en": "YouTube subscribers",
+          "pt": "Inscritos no YouTube"
+        },
+        "value": "1.3K+"
+      }
+    }
+  },
+
+  "channels": {
+    "sectionTitle": {
+      "en": "Our Channels",
+      "pt": "Nossos Canais"
+    },
+    "instagram": {
+      "title": {
+        "en": "Instagram",
+        "pt": "Instagram"
+      },
+      "description": {
+        "en": "@canaleurocouple — Reels reaching up to 200K views and well engaged. Lifestyle, travel, and Christmas content.",
+        "pt": "@canaleurocouple — Reels com até 200K views e bom engajamento. Lifestyle, viagens e Natal."
+      },
+      "button": {
+        "en": "Open profile",
+        "pt": "Abrir perfil"
+      }
+    },
+    "youtube": {
+      "title": {
+        "en": "YouTube",
+        "pt": "YouTube"
+      },
+      "description": {
+        "en": "Vlogs, travels, and real life in Europe. Stories and special episodes.",
+        "pt": "Vlogs, viagens e vida real na Europa. Histórias e episódios especiais."
+      },
+      "button": {
+        "en": "Go to channel",
+        "pt": "Ir para o canal"
+      }
+    },
+    "podcast": {
+      "title": {
+        "en": "Podcast • Cafezinho Gringo",
+        "pt": "Podcast • Cafezinho Gringo"
+      },
+      "description": {
+        "en": "Seasonal show with news and interviews on Brazilian immigration stories.",
+        "pt": "Temporada anual com notícias e entrevistas sobre imigração e vida fora do Brasil."
+      }
+    }
+  },
+
+  "audience": {
+    "sectionTitle": {
+      "en": "Our Audience",
+      "pt": "Nosso Público"
+    },
+    "countries": {
+      "label": {
+        "en": "Countries",
+        "pt": "Países"
+      },
+      "value": {
+        "en": "Brazil, Netherlands, Portugal and Belgium",
+        "pt": "Brasil, Países Baixos, Portugal e Bélgica"
+      }
+    },
+    "age": {
+      "label": {
+        "en": "Age",
+        "pt": "Idade"
+      },
+      "value": {
+        "en": "25–45 years old",
+        "pt": "25–45 anos"
+      }
+    },
+    "interests": {
+      "label": {
+        "en": "Interests",
+        "pt": "Interesses"
+      },
+      "value": {
+        "en": "Simple lifestyle, immigration, European culture, travel, and Christmas",
+        "pt": "Lifestyle simples, imigração, cultura europeia, viagens e Natal"
+      }
+    },
+    "engagement": {
+      "label": {
+        "en": "Engagement",
+        "pt": "Engajamento"
+      },
+      "value": {
+        "en": "Active followers who comment, react, and share. We recently blowed up on Instagram with Reels, and the public is still curious about all we do, speak and recommend.",
+        "pt": "Seguidores ativos que comentam, reagem e compartilham. Recentemente explodimos no Instagram com Reels, e o público continua curioso sobre tudo o que fazemos, falamos e recomendamos."
+      }
+    }
+  },
+
+  "offers": {
+    "sectionTitle": {
+      "en": "What we do",
+      "pt": "O que fazemos"
+    },
+    "content": {
+      "title": {
+        "en": "Content",
+        "pt": "Conteúdo"
+      },
+      "description": {
+        "en": "Reels, vlogs, stories, and photography. Bilingual and intercultural content.",
+        "pt": "Reels, vlogs, stories e fotografia. Conteúdo bilíngue e intercultural."
+      }
+    },
+    "campaigns": {
+      "title": {
+        "en": "Campaigns",
+        "pt": "Campanhas"
+      },
+      "description": {
+        "en": "Seasonal projects, local experiences, and narrative-based launches.",
+        "pt": "Projetos sazonais, experiências locais e lançamentos com narrativa."
+      }
+    },
+    "consulting": {
+      "title": {
+        "en": "Consulting",
+        "pt": "Consultoria"
+      },
+      "description": {
+        "en": "Activation with Brazilian creators in Europe and audience insights.",
+        "pt": "Ativação com criadores brasileiros na Europa e insights de público."
+      }
+    },
+    "collaborations": {
+      "sectionTitle": {
+        "en": "Collaboration Opportunities",
+        "pt": "Parcerias"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": {
+            "en": "Acommodations",
+            "pt": "Acomodações"
+          },
+          "description": {
+            "en": "Hotels, chalets and resorts",
+            "pt": "Hotéis, chalés e resorts"
+          }
+        },
+        {
+          "id": 2,
+          "title": {
+            "en": "Experiences",
+            "pt": "Experiências"
+          },
+          "description": {
+            "en": "Tours, restaurants and attractions",
+            "pt": "Passeios, restaurantes e atrações"
+          }
+        },
+        {
+          "id": 3,
+          "title": {
+            "en": "Travel",
+            "pt": "Viagens"
+          },
+          "description": {
+            "en": "Flights, buses and transfers",
+            "pt": "Aéreo, ônibus e translados"
+          }
+        },
+        {
+          "id": 4,
+          "title": {
+            "en": "Products",
+            "pt": "Produtos"
+          },
+          "description": {
+            "en": "Home, decor, gastronomy, accessories",
+            "pt": "Casa, decoração, gastronomia, acessórios"
+          }
+        },
+        {
+          "id": 5,
+          "title": {
+            "en": "Seasonal",
+            "pt": "Sazonal"
+          },
+          "description": {
+            "en": "Seasons and Christmas (Kerst Couple)",
+            "pt": "Estações do ano e Christmas (Kerst Couple)"
+          }
+        }
+      ]
+    }
+  },
+
+  "christmas": {
+    "sectionTitle": {
+      "en": "Kerst Couple • Christmas Season",
+      "pt": "Kerst Couple • Temporada de Natal"
+    },
+    "text": {
+      "en": "From November to late December we switch to full Christmas mode — markets, trips, decor and curiosities — aiming to become a top Christmas reference for Portuguese-speaking audiences in Europe.",
+      "pt": "De novembro a dezembro, durante o inverno europeu, nosso conteúdo torna-se totalmente natalino. Cobrimos mercados, viagens, decoração e curiosidades, com a ambição de nos tornarmos uma das principais referências de Natal em língua portuguesa na Europa."
+    }
+  },
+
+  "footer": {
+    "title": {
+      "en": "Let's collaborate",
+      "pt": "Vamos colaborar"
+    },
+    "description": {
+      "en": "Tell us about your campaign, experience or destination. We'll send you a custom delivery plan (reels, stories, vlog and simple report).",
+      "pt": "Conte-nos sobre sua campanha, experiência ou destino. Enviaremos um plano de entregas sob medida (reels, stories, vlog e relatório simples)."
+    },
+    "buttons": {
+      "partnerships": {
+        "en": "parcerias@eurocouple.nl",
+        "pt": "parcerias@eurocouple.nl"
+      },
+      "contact": {
+        "en": "contato@eurocouple.nl",
+        "pt": "contato@eurocouple.nl"
+      }
+    },
+    "info": {
+      "adm": {
+        "label": {
+          "en": "ADM",
+          "pt": "ADM"
+        },
+        "value": "adm@eurocouple.nl"
+      },
+      "instagram": {
+        "label": "Instagram",
+        "value": "@canaleurocouple"
+      },
+      "youtube": {
+        "label": "YouTube",
+        "value": "Euro Couple"
+      },
+      "base": {
+        "label": {
+          "en": "Base",
+          "pt": "Base"
+        },
+        "value": {
+          "en": "Stein • Limburg • Netherlands",
+          "pt": "Stein • Limburg • Países Baixos"
+        }
+      }
+    },
+    "copyright": "© Euro Couple — Gabriel Ramos & Beatriz Prietsch"
+  }
+}
