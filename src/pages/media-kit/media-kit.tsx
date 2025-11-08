@@ -3,7 +3,11 @@ import data from "../../../public/data/media-kit.json";
 import "./style.css";
 import { FaInstagram, FaUsers, FaYoutube } from "react-icons/fa";
 
-const MediaKit = () => {
+interface MediaKitProps {
+  title: string;
+}
+
+const MediaKit = ({title}: MediaKitProps) => {
   const [lang, setLang] = useState<"pt" | "en">("pt");
 
   const getLanguageFromURL = () => {
@@ -16,6 +20,8 @@ const MediaKit = () => {
 
   React.useEffect(() => {
     getLanguageFromURL();
+
+    document.title = title;
   }, []);
 
   return (

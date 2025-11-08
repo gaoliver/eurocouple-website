@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Home Page -->
+  <url>
+    <loc>https://eurocouple.nl/</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://eurocouple.nl/images/Profile.png</image:loc>
+      <image:title>EuroCouple.nl</image:title>
+    </image:image>
+  </url>
+
+  <!-- Media Kit Page -->
+  <url>
+    <loc>https://eurocouple.nl/media-kit</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://eurocouple.nl/images/Profile.png</image:loc>
+      <image:title>EuroCouple.nl | Media Kit</image:title>
+    </image:image>
+  </url>
+</urlset>

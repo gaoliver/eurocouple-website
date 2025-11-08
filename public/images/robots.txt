@@ -1,0 +1,15 @@
+# robots.txt for eurocouple.nl
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas (if any in the future)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap
+Sitemap: https://eurocouple.nl/sitemap.xml
+
+# Crawl-delay (optional, helps with server load)
+Crawl-delay: 1
+
